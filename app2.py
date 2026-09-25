@@ -6,5 +6,5 @@ print(type(name))
 print(type(age))
 
 
-older = age +10
+older = age + 10
 print(f"{name} terá {older} daqui a 10 anos.")
